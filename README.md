@@ -1,4 +1,4 @@
-# hana-skills
+# my-skills
 
 > 马捷个人 Skill 云端仓库  
 > 多平台兼容 · 质量门控 · 宁缺毋滥
@@ -21,7 +21,7 @@
 ## 目录结构
 
 ```
-hana-skills/
+my-skills/
 ├── README.md              # 本文件
 ├── registry.json          # Skill 注册表（含 platform 元数据）
 ├── skills/                # Skill 归档目录（多平台共用）
@@ -47,7 +47,7 @@ hana-skills/
 **HanaAgent**
 
 ```
-install_skill from github: mjnn/hana-skills/skills/<skill-name>
+install_skill from github: mjnn/my-skills/skills/<skill-name>
 ```
 
 **Cursor**
